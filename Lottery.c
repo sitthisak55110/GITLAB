@@ -8,7 +8,7 @@ void main()
 
   int YourLotteryNo;
 
-  printf("Hello World\n");
+  printf("Hello World\n");/*1009*/
   printf("Enter your Lottery Number (0 to end): ");
   scanf("%d", &YourLotteryNo);
   while (YourLotteryNo != 0)
@@ -27,6 +27,6 @@ void main()
     printf("Enter your Lottery Number (0 to end): ");
     scanf("%d", &YourLotteryNo);
   }
-  printf("GOODBYE");
+  printf("GOODBYE");/*1096*/
   scanf("%d", &i);
 }
